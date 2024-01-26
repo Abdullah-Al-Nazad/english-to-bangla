@@ -1,0 +1,54 @@
+button {
+    margin-top: 5px;
+    padding: 10px;
+    color: white;
+    background: red;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    padding: 11px;
+    background: greenyellow;
+}
+legend {
+    text-align: center;
+    font-size: 30px;
+}
+form{
+    max-width: 618px;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    background: blue;
+}
+/* fieldset{
+    
+} */
+marquee {
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    height:50px;
+    font-size: 30px;
+    width:200px;
+}
+strong {
+    font-size: 20px;
+}
+div{
+    margin-top: 50px;
+    height:120px;
+}
+#bangla{
+    background: white;
+    width:205px
+}
+#index{
+    height: 165px;
+    max-width: 618px;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    background: blue;
+}
